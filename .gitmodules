@@ -1,0 +1,9 @@
+[submodule "fuzzer/submodules/mmd-6"]
+	path = fuzzer/submodules/mmd-6
+	url = https://github.com/fletcher/MultiMarkdown-6.git
+[submodule "fuzzer/submodules/c-title-case"]
+	path = fuzzer/submodules/c-title-case
+	url = https://github.com/fletcher/c-title-case.git
+[submodule "fuzzer/submodules/magnum"]
+	path = fuzzer/submodules/magnum
+	url = https://github.com/fletcher/magnum.git
